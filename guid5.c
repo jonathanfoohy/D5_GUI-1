@@ -32,6 +32,7 @@ int main(void)
         write_string("BB_V", BLUE2, 40 ,40);
         write_string("BB_C", BLUE2, 90, 40);
         build_empty_box(10,150,33,150,WHITE,1);
+        write_string("Wind Turbine", BLUE, 40, 40);
 
         // fill_rectangle(rect1, WHITE);
         // fill_rectangle(rect1, WHITE);
